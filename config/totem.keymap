@@ -97,7 +97,7 @@
               &kp Q        &kp W       &kp E           &kp R        &kp T        &kp Y        &kp U          &kp I        &kp O    &kp P
               &mt LCTRL A  &mt LALT S  &mt LEFT_GUI D  &mt LSHFT F  &kp G        &kp H        &mt RSHFT J    &mt RCTRL K  &kp L    &kp SEMICOLON
 &kp CAPSLOCK  &kp Z        &kp X       &kp C           &kp V        &kp B        &kp N        &kp M          &kp COMMA    &kp DOT  &kp FSLH       &kp SQT
-                                       &kp DEL         &lt 1 SPACE  &lt 3 TAB    &lt 2 ENTER  &kp BACKSPACE  &kp RSHIFT
+                                       &kp LEFT_GUI         &lt 1 SPACE  &lt 3 TAB    &lt 2 ENTER  &kp BACKSPACE  &kp RSHIFT
             >;
         };
 
