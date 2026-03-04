@@ -2,6 +2,4 @@ on: [push, pull_request, workflow_dispatch]
 
 jobs:
   build:
-    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
-    with:
-      install_path: 'usr/local/bin'
+    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@2069e2c6593f0b240536417f7d98344e64906f2d
